@@ -23,7 +23,7 @@ description: Jaz senm Nino Rode in to je moja stran na GitHub. tu bom pokazal sv
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "o meni"
+  About Me: "o_meni"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Nauči se markdown: "http://www.markdowntutorial.com/"
